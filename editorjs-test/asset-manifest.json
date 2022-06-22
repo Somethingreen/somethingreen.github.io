@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/editorjs-test/static/css/main.03f6d929.css",
+    "main.js": "/editorjs-test/static/js/main.c1be66c5.js",
+    "static/media/fixed-image.png": "/editorjs-test/static/media/fixed-image.90bdc36d008e4f159e21.png",
+    "index.html": "/editorjs-test/index.html",
+    "main.03f6d929.css.map": "/editorjs-test/static/css/main.03f6d929.css.map",
+    "main.c1be66c5.js.map": "/editorjs-test/static/js/main.c1be66c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f6d929.css",
+    "static/js/main.c1be66c5.js"
+  ]
+}
